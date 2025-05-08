@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Passakon Panseng
 ========================================================================================================================================
-
+[![](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)](https://visitcount.itsvg.in)
 Computer Engineering Student.
 -----------------------------
 
