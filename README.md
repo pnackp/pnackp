@@ -20,6 +20,7 @@ Computer Engineering Student.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pnackp"><img src="https://github-readme-stats.vercel.app/api?username=pnackp&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="pnackp's GitHub stats" /></a>
+![](https://github-readme-stats.vercel.app/api?username=pnackp&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pnackp&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pnackp&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/pnackp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnackp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
