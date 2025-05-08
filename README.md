@@ -29,13 +29,23 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=pnackp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pnackp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnackp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <img align="right" height="150" src="https://th.bing.com/th/id/R.b85d26ca6dcaa01776331d2b171334ca?rik=jan0u1FfNrehGw&pid=ImgRaw&r=0"  />
 
-[![](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pnackp/pnackp/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 ---
 
