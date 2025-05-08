@@ -1,8 +1,6 @@
 # Hi there! 👋  
 ## I'm Passakon Panseng ( Nack 😄 )
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)
-
 🎓 Computer Engineering student.  
 📍 Currently based in Songkhla, Thailand  
 💌 My email: [pnackp@gmail.com](mailto:pnackp@gmail.com)  
@@ -36,5 +34,5 @@
 
 ---
 
-> ⚡ Fun Fact: I might write bugs faster than I fix them — but hey, that's part of the charm right? 😎  
-> Let’s connect and build something awesome (or hilariously broken) together! 🚀  
+> 
+> Let’s connect and build something awesome together! 🚀  
