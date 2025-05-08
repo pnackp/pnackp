@@ -35,6 +35,7 @@
 
 <img align="right" height="150" src="https://th.bing.com/th/id/R.b85d26ca6dcaa01776331d2b171334ca?rik=jan0u1FfNrehGw&pid=ImgRaw&r=0"  />
 
+[![](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
