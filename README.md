@@ -3,10 +3,10 @@
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)
 
-🎓 Computer Engineering student who enjoys learning by building cool and (sometimes buggy 😅) things.  
+🎓 Computer Engineering student.  
 📍 Currently based in Songkhla, Thailand  
-💌 Reach me at: [pnackp@gmail.com](mailto:pnackp@gmail.com)  
-🧠 Currently learning: C 🧷 & Rust 🦀 (because who doesn’t love pain with power?)
+💌 My email: [pnackp@gmail.com](mailto:pnackp@gmail.com)  
+🧠 Currently learning: C 🧷 & Rust 🦀
 
 ---
 
