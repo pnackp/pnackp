@@ -4,7 +4,7 @@
 🎓 Computer Engineering student.  
 📍 Currently based in Songkhla, Thailand  
 💌 My email: [pnackp@gmail.com](mailto:pnackp@gmail.com)  
-🧠 Currently learning: C 🧷 & Rust 🦀
+🧠 Currently learning: C 🧷 & English 🦀
 
 ---
 
