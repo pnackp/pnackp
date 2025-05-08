@@ -29,7 +29,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnackp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  ![](https://github-readme-stats.vercel.app/api?username=pnackp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnackp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
