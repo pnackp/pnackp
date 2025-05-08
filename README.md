@@ -1,5 +1,5 @@
 # Hi there! 👋  
-## I'm Passakon Panseng (You can call me Nack 😄)
+## I'm Passakon Panseng ( Nack 😄 )
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=pnackp&icon=0&color=0)
 
