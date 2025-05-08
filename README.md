@@ -33,9 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnackp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
+<img align="right" height="150" src="https://th.bing.com/th/id/R.b85d26ca6dcaa01776331d2b171334ca?rik=jan0u1FfNrehGw&pid=ImgRaw&r=0"  />
 
-<img src="https://raw.githubusercontent.com/pnackp/pnackp/output/snake.svg" alt="Snake animation" />
 
 ---
 
