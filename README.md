@@ -16,4 +16,4 @@
 </p>
 
 --- 
-> Let’s connect and build something awesome together! 🚀  
+> sorry for bad readme and gramma  
