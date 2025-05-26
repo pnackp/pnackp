@@ -1,5 +1,5 @@
 # Hi there! 👋  
-## I'm Passakon Panseng ( Nack 😄 )
+## I'm Passakon Panseng ( Nack )
 
 🎓 Computer Engineering student.  
 📍 Currently based in Songkhla, Thailand  
@@ -16,4 +16,3 @@
 </p>
 
 --- 
-> sorry for bad readme and gramma  
