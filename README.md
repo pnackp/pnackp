@@ -3,7 +3,7 @@
 
 🎓 Computer Engineering student.  
 📍 Currently based in Songkhla, Thailand  
-💌 My email: [passakon.p.dev@gmail.com](mailto:passakon.p.dev@gmail.com)  
+💌 My email: [passakon.engineer.dev@gmail.com](mailto:passakon.engineer.dev@gmail.com)  
 🧠 Currently learning: C 🧷 & English 🦀
 
 ---
