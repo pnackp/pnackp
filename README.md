@@ -5,7 +5,6 @@
 📍 Currently based in Songkhla, Thailand  
 💌 email: [passakon.engineer.dev@gmail.com](mailto:passakon.engineer.dev@gmail.com)  
 🧠 Currently learning: C / C++ && English 
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -25,4 +24,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-
