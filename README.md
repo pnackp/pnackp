@@ -33,7 +33,9 @@
   width: '100vw'
 }}>
   <img 
-    src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" 
-    alt="hippo" 
-  />
+  src="https://media.tenor.com/GmZl6Gx7fEkAAAAC/the-girl-downstairs-li-shiya.gif" 
+  alt="The Girl Downstairs - Li Shiya GIF" 
+/>
+
 </div>
+
