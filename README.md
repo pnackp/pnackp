@@ -25,5 +25,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-<div class="tenor-gif-embed" data-postid="387866069738432866" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/the-girl-downstairs-li-shiya-gif-387866069738432866">The Girl Downstairs Li Shiya GIF</a>from <a href="https://tenor.com/search/the+girl+downstairs-gifs">The Girl Downstairs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Li Shiya GIF](https://media.tenor.com/GmZl6Gx7fEkAAAAC/the-girl-downstairs-li-shiya.gif)
 
