@@ -25,5 +25,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-![Li Shiya GIF](https://media.tenor.com/GmZl6Gx7fEkAAAAC/the-girl-downstairs-li-shiya.gif)
+![Li Shiya GIF](https://media1.tenor.com/m/zAuCVpGamtAAAAAd/li-shiya-anime.gif)
 
