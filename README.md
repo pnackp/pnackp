@@ -25,6 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-<div style = {display : flex} >
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<div style={{ display: 'flex' }}>
+  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="hippo" />
 </div>
