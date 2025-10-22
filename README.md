@@ -29,8 +29,11 @@
   display: 'flex', 
   justifyContent: 'center', 
   alignItems: 'center', 
-  height: '100vh', // ให้สูงเต็มหน้าจอเพื่อจัดกลางแนวตั้ง
-  widght: '100vw'
+  height: '100vh',
+  width: '100vw'
 }}>
-  ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/the-girl-downstairs-li-shiya-gif-387866069738432866))
+  <img 
+    src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" 
+    alt="hippo" 
+  />
 </div>
