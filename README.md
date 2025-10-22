@@ -25,6 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-<div style={{ display: 'flex' }}>
+<div style={{ 
+  display: 'flex', 
+  justifyContent: 'center', 
+  alignItems: 'center', 
+  height: '100vh' // ให้สูงเต็มหน้าจอเพื่อจัดกลางแนวตั้ง
+}}>
   <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="hippo" />
 </div>
