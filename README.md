@@ -29,7 +29,8 @@
   display: 'flex', 
   justifyContent: 'center', 
   alignItems: 'center', 
-  height: '100vh' // ให้สูงเต็มหน้าจอเพื่อจัดกลางแนวตั้ง
+  height: '100vh', // ให้สูงเต็มหน้าจอเพื่อจัดกลางแนวตั้ง
+  widght: '100vw'
 }}>
   <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="hippo" />
 </div>
