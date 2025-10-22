@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-<br>
+<br><br>
 <p align="center">
   <img src="https://media1.tenor.com/m/zAuCVpGamtAAAAAd/li-shiya-anime.gif" alt="Li Shiya GIF" width="300" />
 </p>
