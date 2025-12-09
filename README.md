@@ -8,7 +8,7 @@
 # Tools & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,git,vim,visualstudio" />
   </a>
 </p>
 
