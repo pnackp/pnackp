@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nack</h1>
-<h3 align="center">A 2nd-year student at RMUTSV</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">My name's Nack , I'm a 2nd student at RMUTS in Thailand</h3>
 
 
 # Programming Languages
