@@ -3,6 +3,10 @@
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="40" height="40">
    </picture>
+   <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
+</picture>
 </h1>
 <h3 align="center"> My name is Nack. I’m a second-year student at RMUTS in Thailand.
 Right now, I’m learning C and C++, and I might study Assembly later once I’ve mastered C.
