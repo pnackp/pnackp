@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Nack</h1>
+<h3 align="center">A 2nd-year student at RMUTSV</h3>
+
+
 # Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
